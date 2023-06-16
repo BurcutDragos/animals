@@ -1,4 +1,6 @@
 Pusha,
 Lola,
 Black Paws,
-Mitzi
+Mitzi,
+Coco,
+Roco
